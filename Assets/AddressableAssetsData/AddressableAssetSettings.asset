@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: eac48c4b45d5c49da9912783bc1bd085
+  m_CachedHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 0
+  m_BundleLocalCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_NonRecursiveBuilding: 1
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_ShaderBundleNaming: 0
+  m_ShaderBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 7b35933f9788e44d482018db5a5666b0
+  m_RemoteCatalogLoadPath:
+    m_Id: ebf7419e38d614bc48841026c92dba4b
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: faa1310bac4684d1b97d288fa46deb28, type: 2}
+  - {fileID: 11400000, guid: a53a395914bfa4b77a41063e2e538335, type: 2}
+  - {fileID: 11400000, guid: c67a593e2990548e49ad8920b87634bd, type: 2}
+  - {fileID: 11400000, guid: e48754404cfa64def98550976579d15b, type: 2}
+  - {fileID: 11400000, guid: 737157fab610741038507215b3832643, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 34e38fff240dd4a5fbd981a9c33ae4ae
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 976074ee7b5a540849e146846d3e3101
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: b458868236a2e41c58a662c7c25e5447
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: e56976a18238d497b850342f4c62f782
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 7b35933f9788e44d482018db5a5666b0
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: ebf7419e38d614bc48841026c92dba4b
+        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+    m_ProfileEntryNames:
+    - m_Id: 976074ee7b5a540849e146846d3e3101
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: b458868236a2e41c58a662c7c25e5447
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: e56976a18238d497b850342f4c62f782
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 7b35933f9788e44d482018db5a5666b0
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: ebf7419e38d614bc48841026c92dba4b
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 1c7a35a7701264c89aac171b9b81f8cc, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: c37cf3f2a6700435084ad900dc1085b9, type: 2}
+  - {fileID: 11400000, guid: 9b3571c3e792747d28909f7b75453fcf, type: 2}
+  - {fileID: 11400000, guid: 9a10d196eb78744dbbfd7f6b1b6ceea9, type: 2}
+  - {fileID: 11400000, guid: 253e565db9c9e4aa2b687add74633596, type: 2}
+  m_ActiveProfileId: 34e38fff240dd4a5fbd981a9c33ae4ae
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []

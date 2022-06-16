@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ImageDrink
+  m_EditorClassIdentifier: 
+  m_GroupName: ImageDrink
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a25918b71bc9243318362a9007f019c7
+  m_SerializeEntries:
+  - m_GUID: 40bf86fa2fd264dee8609452ce8f7efb
+    m_Address: drink_001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e58d48bf043947159cad9736e77323f
+    m_Address: drink_002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b242465c955b4e83899ccebfb404740
+    m_Address: drink_003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9592b2a7eb6b5499f90fe5be1a9d42b6
+    m_Address: drink_004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7024fe97a69144e4a1387e33b853ebb
+    m_Address: drink_005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f99ae50f972bd4689aa3e90f80d565ce, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 80f78cb5cfb624db6829da14b54ffe96, type: 2}
+    - {fileID: 11400000, guid: 35ab393d884d146009882245035109e7, type: 2}
