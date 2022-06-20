@@ -20,23 +20,28 @@ MonoBehaviour:
   - m_GUID: 40bf86fa2fd264dee8609452ce8f7efb
     m_Address: drink_001
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Drink
   - m_GUID: 1e58d48bf043947159cad9736e77323f
     m_Address: drink_002
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Drink
   - m_GUID: 6b242465c955b4e83899ccebfb404740
     m_Address: drink_003
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Drink
   - m_GUID: 9592b2a7eb6b5499f90fe5be1a9d42b6
     m_Address: drink_004
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Drink
   - m_GUID: e7024fe97a69144e4a1387e33b853ebb
     m_Address: drink_005
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Drink
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f99ae50f972bd4689aa3e90f80d565ce, type: 2}
   m_SchemaSet:

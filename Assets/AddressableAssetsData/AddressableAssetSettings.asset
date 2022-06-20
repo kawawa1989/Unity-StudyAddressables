@@ -87,6 +87,9 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - Food
+    - Drink
+    - Music
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 1c7a35a7701264c89aac171b9b81f8cc, type: 2}

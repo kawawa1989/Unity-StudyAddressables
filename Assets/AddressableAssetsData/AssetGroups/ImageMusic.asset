@@ -20,23 +20,28 @@ MonoBehaviour:
   - m_GUID: 543c906d4ca4b492b881f3b6cee9ea83
     m_Address: music_001
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Music
   - m_GUID: 2e9547fc72b6940fa9ebe33a05f2a586
     m_Address: music_002
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Music
   - m_GUID: f4f956aabd77046bb9b1869f1e83685e
     m_Address: music_003
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Music
   - m_GUID: f68cd178bf8f3418c8081a9ae563dcd9
     m_Address: music_004
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Music
   - m_GUID: 1558469dca5f84f2883ba93a81b85dad
     m_Address: music_005
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Music
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f99ae50f972bd4689aa3e90f80d565ce, type: 2}
   m_SchemaSet:

@@ -20,23 +20,28 @@ MonoBehaviour:
   - m_GUID: 995278890bc034567b59ca693e3b2f15
     m_Address: food_005
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Food
   - m_GUID: ff00800fb40544d5cb4264f79de363d4
     m_Address: food_001
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Food
   - m_GUID: f354b87aa8d234333a64b101117b28ac
     m_Address: food_003
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Food
   - m_GUID: 6de4249f45372430e898cde34da10047
     m_Address: food_004
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Food
   - m_GUID: e97afb0c20f7946d9bcbc16d23c1657d
     m_Address: food_002
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Food
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f99ae50f972bd4689aa3e90f80d565ce, type: 2}
   m_SchemaSet:
